@@ -20,3 +20,10 @@ Nombre del archivo: SafePassword.py
 Fecha de realización: 15/01/25 -> 16/01/25
 
 Permite generan una contraseña aleatoria, donde lo primero que se pide es el largo de la contraseña, el usuario tiene dos opciones, un largo dado por el usuario, o un largo de contraseña entre 8 a 16 caracteres. La segunda parte consiste en dejar al usuario rellenar la contraseña caracter por caracter o hacer toda la contraseña al azar.
+
+## Gestor de Tareas desde consola
+Nombre del archivo: Task_Manager.py
+
+Fecha de realización: 18/01/25
+
+Un gestor de tareas donde se crea un archivo .txt, si esta creado, lee el contenido de las tareas ya creadas, los agrega a una lista. El gestor de tareas puede, crear, mostra las tareas, eliminar la ultima tarea y eliminar cualquier tarea de la lista (marcar tarea completada), que son seleccionada por el usuario, una vez terminado el programa, guarda las tareas en un archivo .txt.
