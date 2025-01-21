@@ -27,3 +27,9 @@ Nombre del archivo: Task_Manager.py
 Fecha de realización: 18/01/25
 
 Un gestor de tareas donde se crea un archivo .txt, si esta creado, lee el contenido de las tareas ya creadas, los agrega a una lista. El gestor de tareas puede, crear, mostra las tareas, eliminar la ultima tarea y eliminar cualquier tarea de la lista (marcar tarea completada), que son seleccionada por el usuario, una vez terminado el programa, guarda las tareas en un archivo .txt.
+## Analizador de Texto
+Nombre del archivo: text_analyzer.py
+
+Fecha de realización: 21/01/25
+
+Analizador de texto, que cuenta las palabras, lineas y caracteres de un texto ingresado por el usuario
