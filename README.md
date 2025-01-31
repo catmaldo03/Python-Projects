@@ -33,3 +33,9 @@ Nombre del archivo: text_analyzer.py
 Fecha de realización: 21/01/25
 
 Analizador de texto, que cuenta las palabras, lineas y caracteres de un texto ingresado por el usuario
+## Agenda de contactos
+Nombre del archivo: contact.py
+
+Fecha de realización: 29/01/25 -> 30/01/25
+
+Manipulacion de archivos .cvs, donde el usuario utiliza una agenda de contactos, puede ingresar un usuario, mostrar todos los contactos, un contactos especificos, o eliminar un contacto
